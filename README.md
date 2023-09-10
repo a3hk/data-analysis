@@ -5,4 +5,4 @@ My previous experiences in quality assurance and product management have honed m
 
 I completed Google Data Analytics Certificate in 2023 [(credential link)](https://www.credly.com/badges/51e1843b-00a6-4c96-8cd5-46270a3ad2cf/linked_in_profile) and have been learning more as well as creating portfolios since then. 
 
-My skills include SQL, Python, Pandas, Matplotlib, FuzzyWuzzy and working with spreadsheets. I use Jupyter Notebook, BigQuery, Tableau and Google Sheet to work on my projects. My philosohpy is not to start with modest steps instead of something grand, but do it consistently and with grit.
+My skills include SQL, Python, Pandas, Matplotlib, FuzzyWuzzy and working with spreadsheets. I use Jupyter Notebook, BigQuery, Tableau and Google Sheet to work on my projects. My philosohpy is to start with modest steps instead of something big, but do it consistently and with grit.
