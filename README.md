@@ -1,5 +1,5 @@
-# Hello!
-This is a repository for my portfolio in data analysis. 
+# Hello! 👋
+This is a repository for my portfolio in data analysis 📈. 
 
 My previous experiences in quality assurance and product management have honed me to be an analytical, methodical and organized problem solver. I am now aiming for a Data Analyst role, where I can combine these strengths with my newfound data analysis skills to solve problems and deliver meaningful results.
 
