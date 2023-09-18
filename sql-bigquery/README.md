@@ -1,5 +1,5 @@
 # SQL
-I use BigQuery to run SQL. These are some examples of my queries on a mock data of Netflix userbase. All queries and table have been made public. Through these queries, I answered questions on: 
+I use BigQuery to run SQL. These are some examples of my queries on a mock data of Netflix userbase. I got the mock data from [Kaggle](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset). All queries and table have been made public. Through these queries, I answered questions on: 
 
 - [Average revenue by country](https://console.cloud.google.com/bigquery?sq=467012890005:4bf93e5bf94c41449f610cd43c0f9b29)
 - [Average user age per country](https://console.cloud.google.com/bigquery?sq=467012890005:7d92aced97994776804efb33d6ba9924)
