@@ -7,4 +7,4 @@ I use BigQuery to run SQL. These are some examples of my queries on a mock data 
 - [Most used device](https://console.cloud.google.com/bigquery?sq=467012890005:b5d1d3b8a72c42f8a7949856d8eb284d)
 - [Total subscriptions per country](https://console.cloud.google.com/bigquery?sq=467012890005:57004bf6232d41b38735f4b3bc66e56b)
 - [User gender distribution](https://console.cloud.google.com/bigquery?sq=467012890005:8a5c6ba1fcab4170a27457db65d0a9bd)
-- [Subquery] [No. of each subscription type per country](https://console.cloud.google.com/bigquery?sq=467012890005:3476633c922e49a0a1786c8be18efadd)
+- [No. of each subscription type per country](https://console.cloud.google.com/bigquery?sq=467012890005:3476633c922e49a0a1786c8be18efadd)
