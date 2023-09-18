@@ -8,3 +8,5 @@ I use BigQuery to run SQL. These are some examples of my queries on a mock data 
 - [Total subscriptions per country](https://console.cloud.google.com/bigquery?sq=467012890005:57004bf6232d41b38735f4b3bc66e56b)
 - [User gender distribution](https://console.cloud.google.com/bigquery?sq=467012890005:8a5c6ba1fcab4170a27457db65d0a9bd)
 - [No. of each subscription type per country](https://console.cloud.google.com/bigquery?sq=467012890005:3476633c922e49a0a1786c8be18efadd)
+
+I also added my practice SQL queries for subqueries and joins as separate files.
