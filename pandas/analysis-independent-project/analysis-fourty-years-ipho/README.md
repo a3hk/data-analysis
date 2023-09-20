@@ -1,7 +1,5 @@
-# 40 years of IPHO 1982-2022 analysis
+# Independent projects
 
-In this independent project, after taking a look at the 2022 International Physics Olympiad results for individuals, I got interested to find out if over the past decades, IPHO has been having the same countries winning or similar number of countries participating. Short answer: no. 
+These are self initiated projects which I did to practice Pandas and Matplotlib. For IPHO analysis, I scraped the data on my own from the International Physics Olympiad website using the library BeautifulSoup. For Netflix userbase, I got the CSV data from Kaggle. 
 
-I also wanted to see how the trend is for certain countries which are dominating in 2022, such as China, if such countries have been dominating well since a few decades ago (the short answer is also no). 
-
-More answers on curious questions can be found in my analysis file. I did the analysis using Pandas and everything is on Jupyter Notebook.
+For both projects, I came up with the questions myself, which I would like to get answers from the data. These questions are noted as comments in each of the project file. For each project, I demonstrate data cleaning, transformation and analysis through removing irrelevant data, converting data types, filtering, sorting and aggregations. I put in several visualizations using Matplotlib as well.
